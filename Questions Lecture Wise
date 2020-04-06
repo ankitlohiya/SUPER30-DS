@@ -1,6 +1,7 @@
 Questions from SUPER30DS:
 1: Replace every element by smaller element on the left side(not including the current element)
 2: Check the brackets in (a+b) + (c+d)) is balanced or not.
+
 Lec2:
 3: Given sorted matrix of 0s & 1s, find row which has max no of 1s
 4: Given array rearrage elements in zigzag fashion
@@ -9,9 +10,40 @@ Lec2:
 7: Given two strings s1 and s2 find they are anagrams or not
 
 Lec3:
- 
+8: Given an array of integers update every element with multiplication of previous and next elements with the following exception:
+a) First element is replaced by multiplication of first and second.
+b) Last element is replaced by multiplication of last and second last.
+i/p: 2,3,4,5,6
+o/p: 6,8,15,24,30
+9: Given abinary tree, find max no of consecutive 1s if only a single zero is allowed to be flipped
+i/p: 0 1 1 1 0 1 0 0 0 1 0 1 
+o/p: 5
+10: Given abinary tree, find max no of consecutive 1s if only a single zero is allowed to be flipped
+i/p: 0 1 1 1 0 1 1 0 1 0 0 1 0 1 m=2
+o/p: 8
+11: Given n positive integers in an array where each represent a bar of width 1
+Calculate how much water it is able to trap.
+12: Given info for n petrol pumps, calculate wheather there exist a circular tour starting from any petrol pump
+info: petrol at each pump, distance between pumps
+   petrol dist
+0   4      4
+1   6      5
+2   7      9
+3   6      5
+12: Code to find out rightmost bit is set of a number in ddecimal  
 
+Lec4:
+13: Find the kth element from the last in linkedlist
+14: Reverse LL in group size of k
+15: Given two numbers in linkedlist, add them and return the linkedlist 
+16: Given LL, rearrange the odd position elements and even positions element together with odd first and then even
+i/p: 10->11->14->21->25->27
+o/p: 10->14->25->11->21->27
+17: Clone the linked list with random pointers
+18: Check LinkedlIst is palindrome or not
+19: Josephs circle using linkedlist
 
-
+Lec5:
+20:
 =============================================================================================================================
 https://workat.tech
