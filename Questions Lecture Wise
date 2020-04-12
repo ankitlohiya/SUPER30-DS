@@ -56,6 +56,28 @@ cost to connect two ropes is sum of thir lengths
 Lec 13:
 Middle element of sorted array
 Given and infinite series of elements in random order. Given median at any point of time.
+Given a unsorted array, find the kth smallest or kth greatest element
+Given 2 sorted array, find kth smallest and largest elemenet 
+Given 2 unsorted array, find kth smallest and largest elemenet
+Given m sorted array, each of size n, merge intoa single sorted array
+
+Lec 14:
+Min elemenet in every window of size k in array of size n
+dia of tree
+islands problem
+
+Lec 15:
+Total no of ways to reach nth stair
+Min cost to travel matrix from 00 to m,n (min cost path)
+LCS problem
+Subset sum problem
+coin change problem
+
+Lec: 17:
+Min edit problem to convert str1 to str2
+knpsack problem
+min no of jumps to reach at end
+optimal strategy for a game in a row of coin 
 
 =============================================================================================================================
 https://workat.tech
