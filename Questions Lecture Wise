@@ -45,5 +45,17 @@ o/p: 10->14->25->11->21->27
 
 Lec5:
 20:
+
+Lec 12:
+Given two binary heaps, merge them as single max heap.
+no of elements in h1:m size of h1 : m+n
+no of elements in h2:n, size of h2 : no
+Given n ropes of different lemgth, connect these ropes in min cost in to single rope,
+cost to connect two ropes is sum of thir lengths
+
+Lec 13:
+Middle element of sorted array
+Given and infinite series of elements in random order. Given median at any point of time.
+
 =============================================================================================================================
 https://workat.tech
